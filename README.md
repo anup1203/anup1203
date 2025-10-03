@@ -15,13 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 # MY PROFILE ..... PLEASE VISIT HERE
 https://profile-card-28hh.vercel.app/
-                <a href="https://github.com/anupyadav1203" class="hover:text-indigo-600 transition-colors duration-200" target="_blank">
-                    GitHub
-                </a>
-            </div>
-        </div>
-
-    </div>
-
-</body>
-</html>
+              
